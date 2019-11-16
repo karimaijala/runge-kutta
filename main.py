@@ -1,0 +1,4 @@
+from runge_kutta_test import should_approximate_t_squared
+
+should_approximate_t_squared()
+
